@@ -140,8 +140,10 @@ Les notifications presque instantanées fournies par un linter améliorent grand
 Ton éditeur ou IDE n'a peut-être pas de linter, mais si tu peux installer des plug-ins, tu pourras sûrement trouver un linter. Souvent ces plug-ins utilisent un module nommé Pyflakes, ou un autre module, pour faire leur analyse. Tu peux installer Pyflakes sur https://pypi.org/project/pyflakes/ ou en exécutant `pip install --user pyflakes`. ça vaut largement le coup.
 
 ---
+
 **NOTE**
 Sous Windows, tu peux exécuter les commandes *python* et *pip*. Mais sur macOS et Linux, ces commandes sont pour Python 2 seulement, donc à la place tu devras faire *python3* et *pip3*. Souviens-toi en à chaque fois que tu vois *python* ou *pip* dans ce livre.
+
 ---
 
 # Demander de l'aide en programmation
