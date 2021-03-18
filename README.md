@@ -6,3 +6,5 @@ Je propose une traduction de cet ouvrage pour tous les francophones qui préfèr
 Je m'appuye sur le [glossaire de la documentation officielle Python pour la traduction](https://docs.python.org/fr/3/glossary.html) et m'inspire du repo [rust-book-fr](https://github.com/Jimskapt/rust-book-fr) pour le process.
 
 A terme l'idée est de le publier sur GitHub pages avec [Sphinx](https://www.sphinx-doc.org/en/master/index.html).
+
+1. [Gérer les erreurs et demander de l'aide](https://github.com/AliceAML/trad-au-dela-fondamentaux-python/blob/main/chap1.md)
