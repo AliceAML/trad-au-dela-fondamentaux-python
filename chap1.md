@@ -1,4 +1,4 @@
-# Trad 1 - Beyond the basic stuff with python 
+# 1. Gérer les erreurs et demander de l'aide
 
 S'il-vous-plaît, n'anthropomorphisez par les ordinateurs, ils trouvent ça très irritant. Quand un ordinateur affiche une message d'erreur, ce n'est pas parce que vous l'avez offensé. Les ordinateurs sont les outils les plus sophistiqués avec lesquels le commun des mortels interagit, mais ils restent des outils.
 
