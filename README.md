@@ -1,6 +1,6 @@
 # Au-delà des fondamentaux en Python
 
-*Translation of [*Beyond the basic stuff with Python*](https://inventwithpython.com/beyond/) by Al Sweigart published by [No Starch press](https://nostarch.com/beyond-basic-stuff-python).*
+*Unofficial French translation of [*Beyond the basic stuff with Python*](https://inventwithpython.com/beyond/) by Al Sweigart published by [No Starch press](https://nostarch.com/beyond-basic-stuff-python).*
 
 ---
 
