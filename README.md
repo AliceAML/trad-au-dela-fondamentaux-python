@@ -12,6 +12,7 @@ Je m'appuye sur le [glossaire de la documentation officielle Python pour la trad
 
 
 ---
+
 ## Chapitres
 Introduction
 1. [Gérer les erreurs et demander de l'aide](https://github.com/AliceAML/trad-au-dela-fondamentaux-python/blob/main/chap1.md) [:construction: en cours de traduction]
